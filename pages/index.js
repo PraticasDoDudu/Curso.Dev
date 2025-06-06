@@ -1,10 +1,6 @@
 function Home () {
   return (
-    <div>
-      <p></p>
-      <p>
-      </p>
-    </div>
+   <h1>Oi</h1>
   );
 }
 export default Home; 
