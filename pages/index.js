@@ -1,7 +1,5 @@
 function Home() {
-  return <h1>Oi</h1>;
+  return <h1>Oi, You Ok?</h1>;
 }
-function Test2() {
-  console.log("Identacao Errada");
-}
+
 export default Home;
