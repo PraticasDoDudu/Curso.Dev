@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Eduardo Lopes' Official Study Page</h1>;
+  return <h1>Bora no cinema! Vai eu e o Pedro Pacheco gay! :( </h1>;
 }
 
 export default Home;
