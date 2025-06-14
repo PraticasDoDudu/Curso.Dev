@@ -1,5 +1,5 @@
 function Home() {
-  document.title = "Study Page";
+  <title>Study Page</title>
 
   return (
     <>
