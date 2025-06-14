@@ -1,6 +1,5 @@
 function Home() {
-  <title>Study Page</title>
-
+  
   return (
     <>
       <h1>Official Study Page of Eduardo Antônio Lopes da Silveira ©</h1>
