@@ -9,11 +9,15 @@ function Home() {
       </div>
       <div> 
         <h2> 
-I Love My Family And They Will Love Me Back
+          I Love My Family And They Will Love Me Back 
         </h2>
+      </div>
+      <div>
+        God Is The Most Important Thing In My Life. I Will Always Put Him First. I Will Love My Family And They Will Love Me Back. I Will Be A Good Person And Help Others. I Will Work Hard And Be Successful. I Will Be Happy And Enjoy Life.
       </div>
     </>
   );
 }
 
 export default Home;
+
