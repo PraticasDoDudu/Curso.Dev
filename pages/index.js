@@ -17,7 +17,7 @@ function Home() {
     </div>
 
     <footer>
-      <p>© 2023 Eduardo Antônio Lopes da Silveira. All rights reserved.</p>
+      <p>© 2023 Eduardo Antônio Lopes da Silveira. All Rights Reserved.</p>
     </footer>
 
     </>
